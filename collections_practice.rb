@@ -50,4 +50,8 @@ def add_s(array)
       string << "s"
     end
   end
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> 5ac626c1b94b094eb33344afb20b58839ea5965a
